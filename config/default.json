@@ -1,0 +1,10 @@
+{
+    "jwtPrivateKey": "4oz1ll8jTW7RaNHQQLpl",
+    "APP_DETAILS": {
+      "app": "Unit testing with node and jest",
+      "version": "1.0",
+      "gateway": "/api/v1",
+      "website": "comming soon!"
+    }
+  }
+  
